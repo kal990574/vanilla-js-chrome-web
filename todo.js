@@ -1,7 +1,7 @@
 const toDoForm = document.getElementById("todo-form");
 const toDoInput = document.querySelector("#todo-form input");
 const toDoList = document.getElementById("todo-list");
-
+//코드 분석 요망
 const TODOS_KEY = "todos";
 
 let toDos = [];
